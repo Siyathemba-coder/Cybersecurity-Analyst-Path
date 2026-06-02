@@ -10,7 +10,7 @@
 
 ## Overview
 
-A fully redesigned, single-page career guide for aspiring Cybersecurity Analysts in South Africa. The site tells a warm, human story about the role - who does it, why it matters in Mzansi, and how to build a career in it.
+A fully redesigned, single-page career guide for aspiring Cybersecurity Analysts in South Africa. The site tells a warm story about the role - who does it, why it matters in Mzansi, and how to build a career in it.
 
 Built from scratch as a single self-contained HTML file (no build tools, no dependencies to install). Just open it in a browser.
 
@@ -23,10 +23,8 @@ The original project was a multi-page site with a dark terminal aesthetic. This 
 - Single file instead of 9 separate files
 - South African context throughout - Rand salaries, POPIA compliance, local employers, SA market data
 - Warm editorial design inspired by SA's earth and sunset tones, with SA flag accent colours
-- Human, conversational copy - written to feel like a person, not a spec sheet
 - Scroll-triggered animations on cards, skill bars, and the career timeline
 - Floating hero stat cards with gentle breathing animations
-- Regular hyphens (-) used throughout, no em or en dashes
 
 ---
 
